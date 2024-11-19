@@ -1,7 +1,7 @@
 #include<stdio.h>
 
 int main() {
-	float Pi = 3.14;
+    float Pi = 3.14;
     float radius;  
     float circumference;  
     float area; 
