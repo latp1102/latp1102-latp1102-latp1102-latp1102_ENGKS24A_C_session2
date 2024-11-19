@@ -15,7 +15,7 @@ int main(){
 	
 	// In ra cac gia tri
 	printf("Age: %d\n", age);
-	printf("Point: %.2f\n", salary);
+	printf("Heigth: %.2f\n", heigth);
 	printf("%Pi: %14lf\n", pi);
 	printf("Grade: %c\n", grade);
 	printf("Big Number: %lld\n", bigNumber);
