@@ -6,9 +6,7 @@ int main(){
 	
 	// toan tu +
 	int total = num1 + num2;
-	printf(" total l‡ %d", total);
-	
-
+	printf(" total l√† %d", total);
 	
 	return 0;
 }
