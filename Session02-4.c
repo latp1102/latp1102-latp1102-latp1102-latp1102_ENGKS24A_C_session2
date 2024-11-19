@@ -9,9 +9,9 @@ int main(){
 	float area = side * side;
 	
 	// In ket qua
-	printf("Canh hinh vuong: %.2f\n", side);
-	printf("Chu vi hinh vuong: %.2f\n", perimeter);
-	printf("Dien tich hinh vuong: %.2f", area);
+	printf("Canh hinh vuong: %.f\n", side);
+	printf("Chu vi hinh vuong: %.f\n", perimeter);
+	printf("Dien tich hinh vuong: %.f", area);
 	
 	return 0;
 }
