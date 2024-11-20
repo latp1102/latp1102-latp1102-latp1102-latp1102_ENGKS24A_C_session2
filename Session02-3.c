@@ -6,19 +6,19 @@ int main(){
 	
 	// toan tu +
 	int total = num1 + num2;
-	printf(" total l‡ %d\n", total);
+	printf(" total l√† %d\n", total);
 	
 	// toan tu -
 	int signal = num1 - num2;
-	printf(" total l‡ %d\n", signal);
+	printf(" total l√† %d\n", signal);
 	
 	// toan tu *
 	int core = num1 * num2;
-	printf(" core l‡ %d\n", core);
+	printf(" core l√† %d\n", core);
 	
-	// toan tu divide and get the remainder %
+	// toan tu /
 	int divide = num1 / num2;
-	printf("divide and get the remainder l‡ %d\n", divide);
+	printf("divide and get the remainder l√† %d\n", divide);
 	
 	return 0;
 }
